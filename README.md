@@ -78,13 +78,3 @@ Also, while connected to the VPN I can go to different sites like, www.google.co
 <br />
 <br />
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
