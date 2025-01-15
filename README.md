@@ -6,8 +6,6 @@
 
 <h1>How to Setup and Use a VPN | ProtonVPN</h1>
 
- ### [YouTube Demonstration](https://youtube.com)
-
 <h2>Description</h2>
 In this project, I create an Azure VM (Virtual Machine) where I download, install, and use a free VPN (Virtual Private Network) called ProtonVPN. <br />
 <br />
